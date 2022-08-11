@@ -1,0 +1,9 @@
+{
+    "[html]": {
+        "editor.formatOnSave": true,
+    },
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "liveServer.settings.multiRootWorkspaceName": "simple-gh-pages-template",
+    "liveServer.settings.root": "src/"
+}
