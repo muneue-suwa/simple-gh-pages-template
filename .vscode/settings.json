@@ -5,5 +5,6 @@
     "files.insertFinalNewline": true,
     "files.trimFinalNewlines": true,
     "liveServer.settings.multiRootWorkspaceName": "simple-gh-pages-template",
-    "liveServer.settings.root": "src/"
+    "liveServer.settings.root": "src/",
+    "editor.fontFamily": "Consolas, 游明朝, 'Courier New', monospace",
 }
