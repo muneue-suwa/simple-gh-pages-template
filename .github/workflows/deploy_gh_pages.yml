@@ -1,11 +1,14 @@
 name: Deploy GitHub Pages
-on:
-  push:
-    branches:
-      - 'master'
-      - 'main'
-    # tags:  # tag をトリガとする場合
-    #   - '*'
+on: workflow_dispatch  # 手動実行する場合
+# on:  # master or main ブランチのプッシュをトリガとする場合
+#   push:
+#     branches:
+#       - 'master'
+#       - 'main'
+# on:  # tag のプッシュをトリガとする場合
+#   push:
+#     tags:
+#       - '*'
 
 jobs:
   deploy:
