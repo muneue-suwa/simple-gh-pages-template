@@ -5,9 +5,9 @@
 ## GitHub Pages Activation
 
 1. `master` or `main` ブランチをプッシュする．
-2. Actionsが完了したあとに，GitHubのリポジトリのページにて，`settings` - `Pages`の`Build and deployment`にて，`gh-pages`, `/(root)`を選択した後に`save`をクリックする．
+2. Actionsが完了（*Actionsの実行方法を追記する*）したあとに，GitHubのリポジトリのページにて，`settings` - `Pages`の`Build and deployment`にて，`gh-pages`, `/(root)`を選択した後に`save`をクリックする．
 3. 少し待って，リロードすると，GitHub PagesのURLが表示される．
 
 ## Required VSCode Extensions
-- (ESLint)[https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint]
-- (Live Server)[https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer]
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
